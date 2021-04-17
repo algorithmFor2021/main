@@ -28,7 +28,7 @@
 * [백준(BOJ)](https://www.acmicpc.net/)
 
 ## 2. 알고리즘 목록
-1. 완전탐색(4/24)
+1. 완전탐색(4/24) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_04_24.md
 
 2. 이분탐색(5/1)
 
