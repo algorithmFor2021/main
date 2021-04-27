@@ -31,7 +31,7 @@
 ## 2. 알고리즘 목록
 1. 완전탐색(4/24) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_04_24.md
 
-2. 이분탐색(5/1)
+2. 이분탐색(5/1) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_01.md
 
 3. 그리디(5/8,5/15)
 
