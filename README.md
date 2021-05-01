@@ -9,7 +9,7 @@
 - 풀이 올리기 : 각 개인 repository에 문제 풀이 코드를 올린다.
 
 ## 스터디 일정
-* 일  정: 2021/4/24일
+* 일  정: 2021/4/24 ~ 2021/6/5
 * 토요일: 오전 10시 ~ 오후 1시 (3시간)
 * 장 소:  강남역 부근 스터디룸
 
@@ -33,7 +33,7 @@
 
 2. 이분탐색(5/1) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_01.md
 
-3. 그리디(5/8,5/15)
+3. 그리디(5/8,5/15) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_08.md
 
 4. 문자열(5/22)
 
