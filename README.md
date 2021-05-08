@@ -33,10 +33,12 @@
 
 2. 이분탐색(5/1) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_01.md
 
-3. 그리디(5/8,5/15) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_08.md
+3. 그리디(5/8) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_08.md
 
-4. 문자열(5/22)
+4. DP(5/16) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_16.md
 
-5. 그래프(5/29)
+5. 문자열(5/22)
 
-6. 심화 알고리즘(상황에 따라 변동 가능성 있음)
+6. 그래프(5/29)
+
+7. 심화 알고리즘(상황에 따라 변동 가능성 있음)
