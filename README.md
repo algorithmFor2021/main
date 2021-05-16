@@ -37,7 +37,7 @@
 
 4. DP(5/16) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_16.md
 
-5. 문자열(5/22)
+5. 문자열(5/22) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_22.md
 
 6. 그래프(5/29)
 
