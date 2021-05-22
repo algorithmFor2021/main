@@ -39,6 +39,6 @@
 
 5. 문자열(5/22) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_22.md
 
-6. 그래프(5/29)
+6. 그래프(5/29) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_29.md
 
 7. 심화 알고리즘(상황에 따라 변동 가능성 있음)
