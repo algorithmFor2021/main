@@ -44,3 +44,4 @@
 7. 심화 알고리즘(6/5) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_06_05.md
 
 8. 복습 - 완전탐색, 이분탐색, 그리디 (6/12)
+https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_06_12.md
