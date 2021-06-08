@@ -41,4 +41,6 @@
 
 6. 그래프(5/29) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_05_29.md
 
-7. 심화 알고리즘(상황에 따라 변동 가능성 있음)
+7. 심화 알고리즘(6/5) https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_06_05.md
+
+8. 복습 - 완전탐색, 이분탐색, 그리디 (6/12)
