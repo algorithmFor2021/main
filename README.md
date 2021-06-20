@@ -47,3 +47,6 @@
 
 8. 복습 - 완전탐색, 이분탐색, 그리디 (6/12)
 https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_06_12.md
+
+8. 재귀, 순열, 비트마스크, 기타 (6/12)
+https://github.com/algorithmFor2021/main/blob/main/%5BSchedule%5D2021_06_26.md
